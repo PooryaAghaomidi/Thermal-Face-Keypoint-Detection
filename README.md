@@ -1,4 +1,4 @@
-# SSL-Keypoint-Detection-in-Thermal-Images
+# Thermal Face Keypoint Detection
 Leveraging Self-Supervised Learning for Accurate Facial Keypoint Detection in Thermal Images
 
 ![Image Description](Docs/Model.jpg)
